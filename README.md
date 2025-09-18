@@ -42,5 +42,27 @@ FoodMan is a modern food ordering web design concept that brings together **aest
 Clone this repository and open the project in your browser.  
 
 ```bash
-git clone https://github.com/rohitsingh/foodman_web_design.git
+
+git clone https://github.com/rohitsingh0318/foodman_web_design.git
 cd foodman_web_design
+
+
+```
+## Project Structure
+
+```
+foodman_web_design/
+│── index.html
+│── style.css
+│── images/
+│── README.md
+```
+
+
+
+## 💡 Inspiration
+
+This project is a front-end design concept for restaurants, food delivery, or catering services. It highlights usability, visuals, and user engagement.
+
+
+by : Rohit Singh
